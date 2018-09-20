@@ -1,17 +1,17 @@
 # Data Analysis Lab
 
 ## Discover / Requirements
-** What data do we need? **
+### What data do we need? ###
 The data we need is the one from https://www.census.gov/data/datasets/2017/demo/popest/counties-detail.html. Here I downloaded "Annual Estimates of the Resident Population for Selected Age Groups by Sex: April 1, 2010 to July 1, 2017" for the state of Hawaii.
 
-** Who needs it **
+### Who needs it ###
 I needed this data to use for this lab.
 
-** Why is it important? **
+### Why is it important? ###
 It is important because this is the data I will use for this lab. It is important that this is accurate data so this lab will be beneficial to learn from.
 
-** What are our goals? **
+### What are our goals? ###
 My goal is to complete this lab using accurate data that will help me learn techniques to analyze data.
 
-** What is the business value **
+### What is the business value ###
 There is no business value to this - it is for a lab in class.
