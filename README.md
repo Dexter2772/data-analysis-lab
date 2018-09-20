@@ -15,3 +15,6 @@ My goal is to complete this lab using accurate data that will help me learn tech
 
 ### What is the business value ###
 There is no business value to this - it is for a lab in class.
+
+## Collection Phase ##
+I downloaded the CSV file from the previously stated website.
