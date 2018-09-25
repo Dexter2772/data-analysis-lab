@@ -20,14 +20,15 @@ There is no business value to this - it is for a lab in class.
 I downloaded the CSV file from the previously stated website.
 
 ## Data Prep / Cleaning ##
-### The data seems accurate and it was downloaded from a very credible site ###
-### I did have to change the headings in the excel file because the ones it originally had were very long and unnecessarily complicated. ###
+The data seems accurate and it was downloaded from a very credible site.
+I did have to change the headings in the excel file because the ones it originally had were very long and unnecessarily complicated.
 
 ## Exploration/Planning ##
 There was no missing data in my excel file. The only problem was the disparity between the counties in Hawaii.
 1. Honolulu - 953,207 (Highest)
 2. Kalawao - 90 (Lowest)
-This will be difficult to graph and choose an accurate scale due to the range between the maximum and minimum population.
+
+...This will be difficult to graph and choose an accurate scale due to the range between the maximum and minimum population.
 
 ## Modeling/Algorithms ##
 I used the JavaScript library D3.js to upload a CSV file and then made it into a bar graph. This graphs shows the population of each county in Hawaii.
