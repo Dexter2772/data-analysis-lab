@@ -20,4 +20,5 @@ There is no business value to this - it is for a lab in class.
 I downloaded the CSV file from the previously stated website.
 
 ## Data Prep / Cleaning ##
-### The data seems accurate and it was downloaded from a very credible site ##
+### The data seems accurate and it was downloaded from a very credible site ###
+### I did have to change the headings in the excel file because the ones it originally had were very long and unnecessarily complicated. ###
