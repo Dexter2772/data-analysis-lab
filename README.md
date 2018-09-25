@@ -28,7 +28,7 @@ There was no missing data in my excel file. The only problem was the disparity b
 1. Honolulu - 953,207 (Highest)
 2. Kalawao - 90 (Lowest)
 
-...This will be difficult to graph and choose an accurate scale due to the range between the maximum and minimum population.
+This will be difficult to graph and choose an accurate scale due to the range between the maximum and minimum population.
 
 ## Modeling/Algorithms ##
 I used the JavaScript library D3.js to upload a CSV file and then made it into a bar graph. This graphs shows the population of each county in Hawaii.
