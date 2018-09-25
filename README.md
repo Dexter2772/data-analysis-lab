@@ -1,6 +1,6 @@
 # Data Analysis Lab
 
-## Discover / Requirements
+## Discovery / Requirements
 ### What data do we need? ###
 The data we need is the one from https://www.census.gov/data/datasets/2017/demo/popest/counties-detail.html. Here I downloaded "Annual Estimates of the Resident Population for Selected Age Groups by Sex: April 1, 2010 to July 1, 2017" for the state of Hawaii.
 
