@@ -31,3 +31,6 @@ This will be difficult to graph and choose an accurate scale due to the range be
 
 ## Modeling/Algorithms ##
 I used the JavaScript library D3.js to upload a CSV file and then made it into a bar graph. This graphs shows the population of each county in Hawaii.
+
+## Automation / Computation ##
+I used functions from D3.js to parse the CSV file, and turn it into data I could manipulate and turn into a bar graph. The bar graph I created compares the population of each county in Hawaii.
